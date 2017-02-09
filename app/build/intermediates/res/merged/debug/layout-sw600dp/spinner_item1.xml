@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:gravity="center"
+    android:marqueeRepeatLimit="marquee_forever"
+    android:padding="5dip"
+    android:singleLine="true"
+    android:textColor="#333333"
+    android:textSize="18sp" />
+<!-- From: file:/C:/Users/Borle/AndroidStudioProjects/USUnitConvertor/app/src/main/res/layout-sw600dp/spinner_item1.xml -->

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="23.1.1"><source path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\res"/></dataSet><dataSet config="main"><source path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res"><file name="fadein" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\anim\fadein.xml" qualifiers="" type="anim"/><file name="arrowdown" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\drawable\arrowdown.png" qualifiers="" type="drawable"/><file name="arrowup" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\drawable\arrowup.png" qualifiers="" type="drawable"/><file name="gradient_bg" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\drawable\gradient_bg.xml" qualifiers="" type="drawable"/><file name="rect_text_edit" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\drawable\rect_text_edit.xml" qualifiers="" type="drawable"/><file name="usflag" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\drawable\usflag.png" qualifiers="" type="drawable"/><file name="usflag114x114" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\drawable\usflag114x114.png" qualifiers="" type="drawable"/><file name="usflag512x512" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\drawable\usflag512x512.png" qualifiers="" type="drawable"/><file name="gradient_bg" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\drawable-hdpi\gradient_bg.xml" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi" type="drawable"/><file name="activity_main" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="copy_activity_main" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\layout\copy_activity_main.xml" qualifiers="" type="layout"/><file name="spinner_item" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\layout\spinner_item.xml" qualifiers="" type="layout"/><file name="spinner_item1" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\layout\spinner_item1.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\layout-sw600dp\activity_main.xml" qualifiers="sw600dp" type="layout"/><file name="copy_activity_main" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\layout-sw600dp\copy_activity_main.xml" qualifiers="sw600dp" type="layout"/><file name="spinner_item" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\layout-sw600dp\spinner_item.xml" qualifiers="sw600dp" type="layout"/><file name="spinner_item1" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\layout-sw600dp\spinner_item1.xml" qualifiers="sw600dp" type="layout"/><file name="main" path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">100dp</dimen><dimen name="activity_vertical_margin">12dp</dimen></file><file path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\values\strings.xml" qualifiers=""><string-array name="dist2">
+        <item>Millimeter, mm</item>
+        <item>Centimeter, cm</item>
+        <item>Meter, m</item>
+        <item>Kilometer, km</item>
+        <item>INCH, in</item>
+        <item>FOOT, ft</item>
+        <item>YARD, yd</item>
+        <item>MILE</item>
+    </string-array><string name="action_settings">Settings</string><string-array name="dist1">
+        <item>INCH, in</item>
+        <item>FOOT, ft</item>
+        <item>YARD, yd</item>
+        <item>MILE</item>
+    </string-array><string-array name="temperature1">
+        <item>Fahrenheit °F</item>
+    </string-array><string-array name="temperature2">
+        <item>Celsius °C</item>
+    </string-array><string name="app_name">US Unit Convertor</string><string-array name="currency">
+        <item>INR (Indian Rupee)</item>
+        <item>EUR (Euro)</item>
+        <item>GBP (Pound)</item>
+        <item>JPY (Japanese Yen)</item>
+        <item>CNY (Chinese Yuan)</item>
+        <item>AUD (Austraian Dollar)</item>
+        <item>CAD (Canadian Dollar)</item>
+        <item>HKD (Hong Kong Dollar)</item>
+        <item>AED (UAE Dirham)</item>
+        <item>RUB (Russian Rouble)</item>
+        <item>BRL (Brazilian Real)</item>
+        <item>ARS (Argentine Peso)</item>
+        <item>ZAR (South African Rand)</item>
+        <item>KRW (South Korean Won)</item>
+        <item>IRR (Iran Rial)</item>
+        <item>IDR (Indonesian Rupiah)</item>
+        <item>ILS (Israeli Shekel)</item>
+        <item>MXN (Mexican Peso)</item>
+    </string-array><string name="hello_world">Hello world!</string><string-array name="vol1">
+        <item>FLUID OUNCE</item>
+        <item>PINT</item>
+        <item>GALLON</item>
+        <item>BARREL</item>
+    </string-array><string-array name="vol2">
+        <item>Milliliter, mL</item>
+        <item>Liter, L</item>
+        <item>Cubic meter</item>
+        <item>FLUID OUNCE</item>
+        <item>PINT</item>
+        <item>GALLON</item>
+        <item>BARREL</item>
+    </string-array><string-array name="wt2">
+        <item>Milligram, mg</item>
+        <item>Gram, g</item>
+        <item>Kilogram, kg</item>
+        <item>POUND, lb</item>
+        <item>OUNCE, oz</item>
+        <item>TON(METRIC)</item>
+        <item>TON(US)</item>
+    </string-array><string-array name="wt1">
+        <item>POUND, lb</item>
+        <item>OUNCE, oz</item>
+        <item>TON(METRIC)</item>
+        <item>TON(US)</item>
+    </string-array></file><file path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source><source path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\build\generated\res\rs\debug"/><source path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Borle\AndroidStudioProjects\USUnitConvertor\app\src\debug\res"/></dataSet><mergedItems/></merger>

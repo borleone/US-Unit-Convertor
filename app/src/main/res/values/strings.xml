@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">US Unit Convertor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="temperature1">
+        <item>Fahrenheit °F</item>
+    </string-array>
+    <string-array name="temperature2">
+        <item>Celsius °C</item>
+    </string-array>
+    <string-array name="dist1">
+        <item>INCH, in</item>
+        <item>FOOT, ft</item>
+        <item>YARD, yd</item>
+        <item>MILE</item>
+    </string-array>
+    <string-array name="dist2">
+        <item>Millimeter, mm</item>
+        <item>Centimeter, cm</item>
+        <item>Meter, m</item>
+        <item>Kilometer, km</item>
+        <item>INCH, in</item>
+        <item>FOOT, ft</item>
+        <item>YARD, yd</item>
+        <item>MILE</item>
+    </string-array>
+    <string-array name="vol1">
+        <item>FLUID OUNCE</item>
+        <item>PINT</item>
+        <item>GALLON</item>
+        <item>BARREL</item>
+    </string-array>
+    <string-array name="vol2">
+        <item>Milliliter, mL</item>
+        <item>Liter, L</item>
+        <item>Cubic meter</item>
+        <item>FLUID OUNCE</item>
+        <item>PINT</item>
+        <item>GALLON</item>
+        <item>BARREL</item>
+    </string-array>
+    <string-array name="wt1">
+        <item>POUND, lb</item>
+        <item>OUNCE, oz</item>
+        <item>TON(METRIC)</item>
+        <item>TON(US)</item>
+    </string-array>
+    <string-array name="wt2">
+        <item>Milligram, mg</item>
+        <item>Gram, g</item>
+        <item>Kilogram, kg</item>
+        <item>POUND, lb</item>
+        <item>OUNCE, oz</item>
+        <item>TON(METRIC)</item>
+        <item>TON(US)</item>
+    </string-array>
+    <string-array name="currency">
+        <item>INR (Indian Rupee)</item>
+        <item>EUR (Euro)</item>
+        <item>GBP (Pound)</item>
+        <item>JPY (Japanese Yen)</item>
+        <item>CNY (Chinese Yuan)</item>
+        <item>AUD (Austraian Dollar)</item>
+        <item>CAD (Canadian Dollar)</item>
+        <item>HKD (Hong Kong Dollar)</item>
+        <item>AED (UAE Dirham)</item>
+        <item>RUB (Russian Rouble)</item>
+        <item>BRL (Brazilian Real)</item>
+        <item>ARS (Argentine Peso)</item>
+        <item>ZAR (South African Rand)</item>
+        <item>KRW (South Korean Won)</item>
+        <item>IRR (Iran Rial)</item>
+        <item>IDR (Indonesian Rupiah)</item>
+        <item>ILS (Israeli Shekel)</item>
+        <item>MXN (Mexican Peso)</item>
+    </string-array>
+
+</resources>
